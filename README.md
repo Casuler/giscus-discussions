@@ -1,2 +1,2 @@
 # giscus-discussions
-repo for blog's discussions
+Repo for giscus to store dicussion
